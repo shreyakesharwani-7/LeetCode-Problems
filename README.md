@@ -38,3 +38,19 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 📬 **LinkedIn:** [Shreya Kesharwani](https://www.linkedin.com/in/shreyakesharwani70/)
 
 ⭐ **If this repo helps you, don’t forget to Star it!**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
