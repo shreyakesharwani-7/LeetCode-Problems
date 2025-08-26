@@ -80,4 +80,12 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
