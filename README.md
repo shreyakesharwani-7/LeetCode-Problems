@@ -49,6 +49,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
