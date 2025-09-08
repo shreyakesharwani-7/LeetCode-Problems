@@ -52,6 +52,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0007-reverse-integer](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -65,6 +66,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -91,6 +93,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -104,6 +107,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0001-two-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -113,10 +117,12 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
