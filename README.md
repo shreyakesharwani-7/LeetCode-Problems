@@ -77,6 +77,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 ## Sliding Window
 |  |
@@ -107,6 +108,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -125,6 +127,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Sorting
