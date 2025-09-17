@@ -96,6 +96,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
