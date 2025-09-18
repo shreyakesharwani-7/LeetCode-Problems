@@ -51,6 +51,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -150,6 +151,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
