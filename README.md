@@ -88,6 +88,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Probability and Statistics
@@ -114,6 +115,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0278-first-bad-version) |
@@ -198,6 +201,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
