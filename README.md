@@ -52,6 +52,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0007-reverse-integer](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -71,6 +72,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -161,6 +163,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Sorting
@@ -245,4 +248,8 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
