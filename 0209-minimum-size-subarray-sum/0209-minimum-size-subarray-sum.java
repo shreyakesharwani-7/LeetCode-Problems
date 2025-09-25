@@ -1,43 +1,31 @@
 class Solution 
-{   
-private boolean canFind(int[] prefix, int len, int target) 
 {
-    int n = prefix.length - 1; 
-    for (int i = len; i <= n; i++) 
-    {
-        int sum = prefix[i] - prefix[i - len];
-        if (sum >= target) 
-        {
-            return true;
-        }
-    }
-    return false;
-}
     public int minSubArrayLen(int target, int[] nums) 
     {
         int n = nums.length;
-        int[] prefix = new int[n + 1];
-        for (int i = 1; i <= n; i++) 
+        int left = 0;
+        int sum = 0;
+        int minLen = Integer.MAX_VALUE;
+
+        for (int i = 0; i < n; i++) 
         {
-            prefix[i] = prefix[i - 1] + nums[i - 1];
-        }
-        int low = 1, high = n;
-        int ans = 0; 
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (canFind(prefix, mid, target)) 
+            sum += nums[i];
+            while (sum >= target) 
             {
-                ans = mid;       
-                high = mid - 1; 
-            }
-            else 
-            {
-                low = mid + 1; 
+                minLen = Math.min(minLen, i - left + 1);
+                sum -= nums[left];
+                left++;
             }
         }
-
+        int ans = 0;
+        if((minLen == Integer.MAX_VALUE))
+        {
+            ans = 0;
+        }
+        else
+        {
+            ans = minLen;
+        }
         return ans;
     }
 }
