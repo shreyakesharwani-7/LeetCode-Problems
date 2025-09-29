@@ -79,6 +79,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0258-add-digits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
