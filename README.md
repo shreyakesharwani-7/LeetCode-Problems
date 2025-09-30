@@ -134,6 +134,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
