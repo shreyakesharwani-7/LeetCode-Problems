@@ -128,6 +128,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0238-product-of-array-except-self](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
@@ -202,6 +203,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0222-count-complete-tree-nodes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
