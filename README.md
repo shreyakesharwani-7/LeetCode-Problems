@@ -52,6 +52,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0007-reverse-integer](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
