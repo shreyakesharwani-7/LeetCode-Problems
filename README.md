@@ -131,6 +131,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0238-product-of-array-except-self](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -187,6 +188,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -254,6 +256,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Interactive
 |  |
