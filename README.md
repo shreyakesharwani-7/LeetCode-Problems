@@ -53,6 +53,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0009-palindrome-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Bit Manipulation
