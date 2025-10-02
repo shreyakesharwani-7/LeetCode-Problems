@@ -136,6 +136,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0274-h-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -160,6 +161,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -191,6 +194,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -213,6 +217,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
