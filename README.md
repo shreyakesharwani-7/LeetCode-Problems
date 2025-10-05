@@ -88,6 +88,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
@@ -180,6 +181,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -194,6 +196,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +208,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0274-h-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
