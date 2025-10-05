@@ -63,6 +63,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0400-nth-digit) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -76,6 +77,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0050-powx-n](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0390-elimination-game) |
 ## Bit Manipulation
 |  |
 | ------- |
