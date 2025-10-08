@@ -152,6 +152,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -249,6 +250,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0400-nth-digit) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
