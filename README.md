@@ -152,6 +152,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
@@ -250,6 +251,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0400-nth-digit) |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -262,6 +264,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -285,6 +288,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -335,4 +339,16 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
