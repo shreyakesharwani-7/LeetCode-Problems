@@ -65,6 +65,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -212,6 +213,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
