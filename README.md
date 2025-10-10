@@ -46,6 +46,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
