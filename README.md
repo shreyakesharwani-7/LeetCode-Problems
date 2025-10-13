@@ -358,4 +358,8 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
