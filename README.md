@@ -72,6 +72,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0258-add-digits) |
+| [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## Combinatorics
 |  |
 | ------- |
