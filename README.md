@@ -73,6 +73,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
