@@ -111,6 +111,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -140,6 +141,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0137-single-number-ii) |
@@ -331,6 +333,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
@@ -393,6 +396,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -400,6 +404,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Depth-First Search
 |  |
