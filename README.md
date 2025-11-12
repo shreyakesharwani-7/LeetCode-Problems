@@ -68,6 +68,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0400-nth-digit](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
+| [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -83,6 +84,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0390-elimination-game) |
+| [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
+| [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sliding Window
@@ -386,6 +389,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
