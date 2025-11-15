@@ -59,6 +59,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0050-powx-n](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0258-add-digits) |
