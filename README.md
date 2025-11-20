@@ -151,6 +151,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0035-search-insert-position](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -232,6 +233,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0001-two-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
