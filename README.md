@@ -95,6 +95,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0190-reverse-bits) |
@@ -157,6 +158,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -478,4 +480,5 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0039-combination-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
