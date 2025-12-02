@@ -215,6 +215,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2865-beautiful-towers-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2865-beautiful-towers-i) |
@@ -240,6 +241,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2460-apply-operations-to-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -413,6 +415,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
