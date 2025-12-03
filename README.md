@@ -192,6 +192,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -473,6 +474,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
