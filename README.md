@@ -203,6 +203,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -476,6 +477,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2470-removing-stars-from-a-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -485,6 +487,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2865-beautiful-towers-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2865-beautiful-towers-i) |
 ## Depth-First Search
