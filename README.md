@@ -468,6 +468,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 ## Stack
 |  |
@@ -479,6 +480,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -514,4 +516,5 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
