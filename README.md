@@ -226,6 +226,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2865-beautiful-towers-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2865-beautiful-towers-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4107-find-missing-elements](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -311,6 +312,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4107-find-missing-elements](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -345,6 +347,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -513,6 +517,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Backtracking
 |  |
 | ------- |
