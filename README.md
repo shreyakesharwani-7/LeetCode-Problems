@@ -78,6 +78,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -224,6 +225,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2865-beautiful-towers-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2865-beautiful-towers-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -371,6 +373,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
 | ------- |
