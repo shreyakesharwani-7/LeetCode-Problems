@@ -215,6 +215,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1590-make-sum-divisible-by-p](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
@@ -428,6 +429,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0258-add-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
@@ -502,6 +504,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2865-beautiful-towers-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2865-beautiful-towers-i) |
 ## Monotonic Stack
@@ -536,5 +539,6 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
