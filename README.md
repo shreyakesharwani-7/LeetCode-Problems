@@ -218,6 +218,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -428,6 +429,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
@@ -534,4 +536,5 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
