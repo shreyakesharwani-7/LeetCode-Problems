@@ -74,6 +74,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
