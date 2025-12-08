@@ -76,6 +76,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1925-count-square-sum-triples](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
@@ -542,4 +543,8 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
