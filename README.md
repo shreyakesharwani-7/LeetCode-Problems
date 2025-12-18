@@ -141,6 +141,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0209-minimum-size-subarray-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4107-find-missing-elements](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4107-find-missing-elements) |
@@ -383,6 +385,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Counting
 |  |
 | ------- |
