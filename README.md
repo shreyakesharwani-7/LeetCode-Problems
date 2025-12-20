@@ -63,6 +63,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0172-factorial-trailing-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -301,6 +302,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0058-length-of-last-word](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
@@ -510,6 +512,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
