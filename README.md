@@ -300,6 +300,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0058-length-of-last-word) |
