@@ -315,6 +315,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2211-count-collisions-on-a-road](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
@@ -395,6 +396,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Counting
