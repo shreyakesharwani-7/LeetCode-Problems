@@ -76,6 +76,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -225,6 +226,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1390-four-divisors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
