@@ -223,6 +223,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-koko-eating-bananas](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-last-stone-weight) |
@@ -295,6 +296,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0496-next-greater-element-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
