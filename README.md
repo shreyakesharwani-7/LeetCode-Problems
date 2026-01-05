@@ -131,6 +131,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
@@ -241,6 +242,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
@@ -460,6 +462,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## Simulation
 |  |
