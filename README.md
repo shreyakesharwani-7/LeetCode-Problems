@@ -58,6 +58,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0029-divide-two-integers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -175,6 +176,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0046-permutations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0075-sort-colors) |
