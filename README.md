@@ -496,12 +496,14 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -572,6 +574,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -600,4 +603,8 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
