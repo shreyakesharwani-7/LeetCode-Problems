@@ -143,6 +143,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sliding Window
