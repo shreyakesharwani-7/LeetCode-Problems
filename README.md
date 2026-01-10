@@ -77,6 +77,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -142,6 +143,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -509,6 +511,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 ## Binary Indexed Tree
 |  |
