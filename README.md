@@ -78,6 +78,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -233,6 +234,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1016-subarray-sums-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -610,4 +612,8 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
