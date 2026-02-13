@@ -140,6 +140,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -284,6 +285,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 ## Hash Table
@@ -332,6 +334,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
