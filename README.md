@@ -144,6 +144,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -206,6 +207,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
