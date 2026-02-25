@@ -142,6 +142,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -188,6 +189,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0046-permutations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -472,6 +474,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
