@@ -150,6 +150,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -237,6 +238,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0665-non-decreasing-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
