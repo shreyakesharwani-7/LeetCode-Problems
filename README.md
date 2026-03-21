@@ -152,6 +152,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
@@ -233,6 +234,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -653,6 +655,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0046-permutations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0494-target-sum) |
 ## Queue
 |  |
 | ------- |
