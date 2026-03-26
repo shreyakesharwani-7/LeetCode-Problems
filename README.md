@@ -147,6 +147,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0062-unique-paths](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -353,6 +354,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0020-valid-parentheses](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0242-valid-anagram) |
