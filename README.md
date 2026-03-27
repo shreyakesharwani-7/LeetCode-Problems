@@ -160,6 +160,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0867-new-21-game](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1092-shortest-common-supersequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -364,6 +365,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0402-remove-k-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
