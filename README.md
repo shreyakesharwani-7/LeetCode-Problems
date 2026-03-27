@@ -168,6 +168,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2786-visit-array-positions-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2460-apply-operations-to-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2865-beautiful-towers-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
