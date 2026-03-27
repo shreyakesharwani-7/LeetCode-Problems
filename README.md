@@ -100,6 +100,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -133,6 +134,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [1448-maximum-69-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -144,6 +146,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -355,6 +358,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0012-integer-to-roman](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0072-edit-distance) |
