@@ -31,5 +31,4 @@ class Solution {
         dp[i][j] = ans ? 1 : 0;
         return ans;
     }
-
 }
