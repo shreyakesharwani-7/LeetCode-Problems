@@ -153,6 +153,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0072-edit-distance](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -236,6 +237,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -424,6 +426,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0275-h-index-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
