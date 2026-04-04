@@ -152,6 +152,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0070-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -216,6 +217,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0085-maximal-rectangle](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
