@@ -298,6 +298,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4107-find-missing-elements](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4107-find-missing-elements) |
@@ -352,6 +353,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2634-minimum-common-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4107-find-missing-elements](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4107-find-missing-elements) |
 ## String
