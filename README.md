@@ -141,6 +141,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
@@ -285,6 +286,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1975-maximum-matrix-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -407,6 +409,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0948-sort-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4107-find-missing-elements](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/4107-find-missing-elements) |
