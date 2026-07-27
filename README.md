@@ -281,6 +281,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
