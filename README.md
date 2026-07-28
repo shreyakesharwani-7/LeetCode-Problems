@@ -148,6 +148,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -208,6 +209,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [0046-permutations](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -453,6 +455,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/0190-reverse-bits) |
