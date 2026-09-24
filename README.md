@@ -93,6 +93,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [2722-prime-in-diagonal](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -301,6 +302,7 @@ Every time I solve a problem on LeetCode, the solution is pushed here **instantl
 | [3074-apple-redistribution-into-boxes](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreyakesharwani-7/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
